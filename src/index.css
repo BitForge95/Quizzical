@@ -7,7 +7,7 @@
 body {
   margin: 0;
   font-family: Inter, sans-serif;
-  background-image: url("/home/charansai/Documents/Workspace/Web Dev/Projects/Quzzical/Quizzical/assets/blue-light-gradient.jpg");
+  background-image: url("assets/blue-light-gradient.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
